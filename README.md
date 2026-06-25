@@ -11,7 +11,7 @@ A hard-hitting, dark, and highly aggressive Drill instrumental engineered from s
 
 ---
 <p align="center">
-  <img src="Screenshot 2026-06-25 051753.png" alt="FL Studio Drill Beat Project" width="600"/>
+  <img src="Screenshot 2026-06-25 051753.png" alt="FL Studio Drill Beat Project"/>
 </p>
 
 ## 🎹 Production & Sonic Breakdown
